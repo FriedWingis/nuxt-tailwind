@@ -27,8 +27,6 @@
 
 ## 💻 Getting started
 
-### Requirements
-
 **Clone the project and access the folder**
 
 ```bash
