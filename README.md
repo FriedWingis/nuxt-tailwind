@@ -15,7 +15,7 @@
 
 ## 👨🏻‍💻 About the project
 
-- <p style="color: red;">This is a personal website I created to enhance my web development skills. Built with the NUXT framework, it showcases a focus on modern, scalable practices like server-side rendering, static site generation, and modular design. This project reflects my commitment to clean, maintainable code and serves as both a learning tool and a portfolio piece.</p>
+- <p style="color: red;">This is a personal website I created to enhance my web development skills. Built with the Nuxt framework, it showcases a focus on modern, scalable practices like server-side rendering, static site generation, and modular design. This project reflects my commitment to clean, maintainable code and serves as both a learning tool and a portfolio piece.</p>
 
 ## 🚀 Technologies
 
